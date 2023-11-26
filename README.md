@@ -6,6 +6,7 @@ Este projeto é uma API REST para a gestão de produtos. Ele permite operações
 
 - Java
 - Spring Boot
+- Lombok
 - Spring Data JPA
 - H2 Database
 - Maven
